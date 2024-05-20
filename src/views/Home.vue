@@ -180,7 +180,7 @@ export default {
         .dispatch('stats/statisticsGlobals')
         .then(response => {
           this.isLoading = false
-          console.log('stats/globalStats response::: ❌❌❌', response.data);
+          // console.log('stats/globalStats response::: ❌❌❌', response.data);
           this.current_data = response.data
         })
         .catch(error => {

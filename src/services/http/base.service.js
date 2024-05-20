@@ -13,9 +13,9 @@ const jwtConfig = {
   storageTokenKeyName: 'accessToken',
   storageRefreshTokenKeyName: 'refreshToken',
 }
-// const nodejsApiUrl ='https://7b60-197-234-221-87.ngrok-free.app/api/v1'
-const nodejsApiUrl ='http://0.0.0.0:4445/api/v1/'
-// const nodejsApiUrl ='https://hiretopback.netlify.app/api/v1/'
+// const nodejsApiUrl ='http://0.0.0.0:4445/api/v1/'
+const nodejsApiUrl ='hiretopbackend.netlify.app/api/v1/'
+
 
 
 const redirectToLogin = data => {
