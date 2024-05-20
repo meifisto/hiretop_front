@@ -1,0 +1,21 @@
+.nopadding {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.iconBig {
+  /* text-shadow: 1px 1px 1px #ccc; */
+  font-size: 2.2em;
+}
+.iconMedium {
+  /* text-shadow: 1px 1px 1px #ccc; */
+  font-size: 1.7em;
+}
+.iconSmall {
+  /* text-shadow: 1px 1px 1px #ccc; */
+  font-size: 1.4em;
+}
+
+.hrPrimary {
+  border-top: 3px solid #af8404;
+}
